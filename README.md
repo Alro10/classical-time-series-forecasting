@@ -1,2 +1,9 @@
 # Classical Methods for Time Series Forecasting
-Coding from classical methods applying in time series forecasting
+Coding, Python and R, from classical methods applying in time series forecasting
+
+# Methods
+
+- Moving Average
+- ARMA
+- ARIMA
+- SARIMA
