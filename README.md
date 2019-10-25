@@ -3,6 +3,8 @@ Coding, Python and R, from classical methods applying in time series forecasting
 
 ## Resources
 
+- [An Introductory Study on Time Series Modeling and Forecasting](https://arxiv.org/pdf/1302.6613.pdf)
+
 - https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
 
 - https://towardsdatascience.com/machine-learning-part-19-time-series-and-autoregressive-integrated-moving-average-model-arima-c1005347b0d7
