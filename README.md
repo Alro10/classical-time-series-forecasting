@@ -16,4 +16,8 @@ Coding, Python and R, from classical methods applying in time series forecasting
 - Moving Average
 - ARMA
 - ARIMA
-- SARIMA
+- SARIMAX
+
+## Packages 
+
+- [Python-SARIMAX](https://www.statsmodels.org/stable/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html)
