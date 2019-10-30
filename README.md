@@ -21,3 +21,4 @@ Coding, Python and R, from classical methods applying in time series forecasting
 ## Packages 
 
 - [Python-SARIMAX](https://www.statsmodels.org/stable/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html)
+- [R- Time series Analysis](http://db.ucsd.edu/static/TimeSeries.pdf)
