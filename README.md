@@ -16,7 +16,7 @@ Coding, Python and R, from classical methods applying in time series forecasting
 - Moving Average
 - ARMA
 - ARIMA
-- SARIMA. 
+- [SARIMA](https://github.com/Alro10/classical-time-series-forecasting/blob/master/SARIMA.ipynb)
   - The ```statsmodels``` implementation called this SARIMAX because the “X” addition to the method name means that the implementation also supports exogenous variables.
 
 ## Packages 
